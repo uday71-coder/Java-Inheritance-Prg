@@ -1,4 +1,4 @@
-package inheritanceprograms;
+package inheritancepack;
 
 class Student {
 	private String name;

@@ -1,4 +1,4 @@
-package inheritanceprograms;
+package inheritancepack;
 
 class Employee2 {
 	protected String ename;

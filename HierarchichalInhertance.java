@@ -1,4 +1,4 @@
-package inheritanceprograms;
+package inheritancepack;
 
 
 public class HierarchichalInhertance {

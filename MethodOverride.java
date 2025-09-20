@@ -1,4 +1,4 @@
-package inheritanceprograms;
+package inheritancepack;
 
 class Add {
 	public void sum(int x, int y) {

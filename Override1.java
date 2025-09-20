@@ -1,4 +1,4 @@
-package inheritanceprograms;
+package inheritancepack;
 
 class SamsungMobile2024 {
 	public String model = "2024";
